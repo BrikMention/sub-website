@@ -1,2 +1,9 @@
 title: サブサイト
 url: https://brikmention.github.io/sub-website/
+
+menu:
+  main:
+    indentifier: website
+    name: メインサイト
+    url: https://brikmention.github.io
+    weight: 10
